@@ -1,2 +1,2 @@
-# stroke-prediction-using-logistic-regression
-final year project
+# Stroke_prediction
+Stroke prediction machine learning project
